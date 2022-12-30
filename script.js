@@ -13,7 +13,8 @@ console.log(`I eat ${favoriteFood} at every ${favoriteMeal}`);
 const myWatchedSeries = ["black mirror", "money heist", "the big bang theory"];
 
 let myWatchedSeriesLength = myWatchedSeries.length;
-let myWatchedSeriesSentence = "Yedagne Alien 2.0, Yaya Alien 2.1, Tia code 2.0";
+//mise à jour de la ligne 20
+let myWatchedSeriesSentence = "J'ai régardé Black panther, un film qui parle des conflits internes d'un pays";
 console.log(` J'ai regardé ${myWatchedSeriesLength} Film : ${myWatchedSeriesSentence}`);
 
 /* Exercice 2 : Series
