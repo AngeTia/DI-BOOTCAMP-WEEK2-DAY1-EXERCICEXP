@@ -13,6 +13,10 @@ console.log(`I eat ${favoriteFood} at every ${favoriteMeal}`);
 const myWatchedSeries = ["black mirror", "money heist", "the big bang theory"];
 
 let myWatchedSeriesLength = myWatchedSeries.length;
+/*******************************************
+Correcteur: Yannick GOUGUIA
+A revoir la reponse de la ligne 20
+*******************************************/
 let myWatchedSeriesSentence = "Yedagne Alien 2.0, Yaya Alien 2.1, Tia code 2.0";
 console.log(` J'ai regardé ${myWatchedSeriesLength} Film : ${myWatchedSeriesSentence}`);
 
